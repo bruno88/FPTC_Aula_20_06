@@ -1,1 +1,2 @@
 Estou no lab 01
+agora eu estou fazendo um teste usando o VS Code no lab 01.
